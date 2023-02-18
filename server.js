@@ -28,3 +28,5 @@ const someData = async () => {
   }
 };
 someData();
+
+//FIXME: TO ADD ANALYZER IN THESE ,
